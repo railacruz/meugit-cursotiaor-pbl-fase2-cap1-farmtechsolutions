@@ -3,7 +3,7 @@
 Simulação de um dispositivo de coleta de dados e irrigação automatizada para uma lavoura de **milho**, construída no simulador [Wokwi](https://wokwi.com) com ESP32.
 
 - **Projeto no Wokwi:** https://wokwi.com/projects/477882046949237761
-- **Vídeo de demonstração (YouTube, não listado):** `COLE_AQUI_O_LINK_DO_VIDEO`
+- **Vídeo de demonstração (YouTube, não listado):** https://youtu.be/IMXrXuqkAlc
 
 ## Integrantes
 
