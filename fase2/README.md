@@ -9,11 +9,11 @@ Simulação de um dispositivo de coleta de dados e irrigação automatizada para
 
 | Nome | RM | Papel |
 |---|---|---|
-| (nome) | (RM) | Integrante 1 — Hardware (montagem no Wokwi) |
-| (nome) | (RM) | Integrante 2 — Entradas e sensores |
-| Raila Santos Cruz | (RM) | Integrante 3 — Lógica e atuadores |
-| (nome) | (RM) | Integrante 4 — Regras agronômicas |
-| (nome) | (RM) | Integrante 5 — Repositório e vídeo |
+| Gabriela Pacheco | rm575120 | Integrante 1 — Hardware (montagem no Wokwi) |
+| Leonardo Yokoda | rm575829 | Integrante 2 — Entradas e sensores |
+| Raila Santos Cruz | rm576112 | Integrante 3 — Lógica e atuadores |
+| Gabriel Pietrobon Ferreira | rm574967 | Integrante 4 — Regras agronômicas |
+| Raila Santos Cruz | rm576112 | Integrante 3 — Repositório e vídeo |
 
 ## 1. Objetivo
 
